@@ -1,123 +1,149 @@
 {
-  "hero_headline": "Anthropic获965亿融资，非农报告本周公布",
-  "daily_overview": "科技领域，Anthropic完成650亿美元H轮融资，估值达9650亿美元，并发布Opus 4.8模型；OpenAI展示AI在波士顿儿童医院诊断40余种罕见病的成果。金融方面，美国5月非农就业报告即将出炉，市场预期稳健；软银承诺投资750亿欧元在法国建设欧洲最大AI数据中心。时政方面，美英澳宣布合作开发水下无人载具以强化印太安全；特朗普称与伊朗的停火延期协议接近达成；菲律宾仍强调来自中国的“严重威胁”。",
+  "hero_headline": "Anthropic估值9650亿美元 发布Opus 4.8",
+  "daily_overview": "今日科技圈由Anthropic巨额融资领衔：公司完成650亿美元H轮融资，估值逼近万亿，同步推出Claude Opus 4.8模型与动态工作流工具。OpenAI则连发两项进展：波士顿儿童医院借助其AI诊断40余种罕见病，并发布生物防御平台Rosalind。Microsoft开源文档转Markdown工具MarkItDown。财经方面，IMF与委内瑞拉就经济稳定展开首轮面对面会谈；软银承诺向法国AI设施投资750亿欧元；美国牛肉价格因牛群短缺创历史新高；法拉利首款电动车Luce遭遇舆论反弹。地缘政治层面，AUKUS三国宣布联合研发水下无人载具；美国国会推进美以军事一体化法案；特朗普称与伊朗的停火延期协议接近达成。",
   "tech_briefs": [
     {
-      "title": "Anthropic完成650亿美元H轮融资，发布Opus 4.8",
+      "title": "Anthropic完成650亿美元H轮融资 估值9650亿",
       "url": "https://news.smol.ai/issues/26-05-28-anthropic-series-h/",
       "source": "Smol AI News",
-      "summary": "Anthropic以9650亿美元估值完成650亿美元融资，并推出Opus 4.8模型及Dynamic Workflows。多家报道显示其营收超470亿美元。（多家报道）",
+      "summary": "Anthropic宣布650亿美元H轮融资，估值9650亿美元，年化收入超470亿美元。同时发布Claude Opus 4.8模型与动态工作流工具。（多家报道）",
       "importance": 10
     },
     {
-      "title": "波士顿儿童医院用AI诊断超40例罕见病",
+      "title": "波士顿儿童医院用AI解锁新诊断",
       "url": "https://openai.com/index/boston-childrens-hospital",
       "source": "OpenAI News",
-      "summary": "该院运用OpenAI技术提升诊疗效率，减少医护负担，已成功诊断40余种罕见病病例。",
+      "summary": "波士顿儿童医院使用OpenAI技术改善患者护理、减轻运营负担，并帮助诊断超过40种罕见病病例。",
       "importance": 9
     },
     {
-      "title": "微软开源Markitdown：文件转Markdown工具",
+      "title": "OpenAI推出生物防御平台Rosalind",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "source": "OpenAI News",
+      "summary": "OpenAI发布Rosalind Biodefense，向经审核的开发者及美国政府合作伙伴提供GPT-Rosalind安全访问，推进生物防御与公共卫生。",
+      "importance": 8
+    },
+    {
+      "title": "微软开源文档转Markdown工具MarkItDown",
       "url": "https://github.com/microsoft/markitdown",
       "source": "GitHub Trending",
-      "summary": "Python工具可将Office文档、HTML等多种格式转换为Markdown，便于文档处理和AI流水线集成。",
+      "summary": "Python工具，可将Office文档、PDF等各类文件高效转换为Markdown格式，便于AI模型处理与分析，解决文档解析痛点。",
       "importance": 7
     },
     {
-      "title": "OpenAI推出Rosalind Biodefense生物防御计划",
-      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "source": "OpenAI News",
-      "summary": "为受信任的开发者及美国政府机构提供GPT-Rosalind访问，支持生物防御、公共卫生与大流行病防范研究。",
-      "importance": 8
+      "title": "DeepMind在亚太启动加速器应对环境风险",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "source": "DeepMind Blog",
+      "summary": "Google DeepMind宣布在亚太地区启动加速器项目，利用AI技术帮助当地组织应对气候变化等环境风险。",
+      "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "美国5月非农就业报告即将出炉",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-30/us-jobs-report-set-to-reveal-solid-growth-steady-unemployment-rate",
+      "title": "IMF总裁与委内瑞拉官员举行经济稳定会谈",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-30/imf-chief-venezuelan-officials-hold-talks-on-economic-stability",
       "source": "Bloomberg Markets",
-      "summary": "本周美国将公布系列劳动力市场数据，周五的官方非农报告预计显示就业稳健增长、失业率持平。",
+      "summary": "IMF总裁格奥尔基耶娃与委内瑞拉经济官员奥尔特加在华盛顿进行面对面会谈，为IMF高层首次与该国当局会面。",
       "importance": 9
     },
     {
-      "title": "软银拟750亿欧元在法建欧洲最大AI设施",
+      "title": "软银承诺在法国建设欧洲最大AI设施",
       "url": "https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463",
       "source": "Financial Times",
-      "summary": "孙正义将法国置于全球AI版图中心，该设施将成为欧洲规模最大的AI基础设施。",
+      "summary": "软银创始人孙正义宣布投资750亿欧元在法国建造欧洲最大AI基础设施，将法国置于其全球AI战略核心。",
       "importance": 9
     },
     {
-      "title": "环球音乐拒绝阿克曼收购要约",
-      "url": "https://www.bbc.com/news/articles/cn8pnd9yj4eo",
-      "source": "BBC Business",
-      "summary": "环球音乐集团认为Pershing Square的收购报价“根本低估”了公司价值，予以拒绝。",
+      "title": "美国牛肉价格因历史性牛群短缺创新高",
+      "url": "https://www.ft.com/content/16468077-84b5-4d1c-b1d7-abe62ba3fa84",
+      "source": "Financial Times",
+      "summary": "高饲料成本与干旱导致美国牛群降至60年最低，蛋白需求强劲，牛肉价格升至历史纪录。",
       "importance": 8
     },
     {
-      "title": "美国牛肉供应短缺创历史新高",
-      "url": "https://www.ft.com/content/16468077-84b5-4d1c-b1d7-abe62ba3fa84",
-      "source": "Financial Times",
-      "summary": "饲料成本高企和干旱导致存栏量降至60年最低，推升牛肉价格至纪录高位。",
+      "title": "法拉利首款电动车Luce遭遇强烈抵制",
+      "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "法拉利首款电动车型Luce被批评背离品牌传统，引发用户强烈反对。（多家报道）",
       "importance": 8
+    },
+    {
+      "title": "加密企业转向高风险股权融资",
+      "url": "https://www.ft.com/content/0c91bb8d-92bb-4701-988d-12855543ab2d",
+      "source": "Financial Times",
+      "summary": "持有大量加密货币的公司效仿Michael Saylor的策略，通过发行股票等方式筹集现金，进入所谓“数字信贷”领域。",
+      "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "AUKUS三国合作开发水下无人载具",
-      "url": "https://www.dw.com/zh/aukus新举措：美英澳合作研发水下无人载具/a-77356573",
+      "title": "AUKUS宣布联合研发水下无人载具",
+      "url": "https://www.dw.com/zh/aukus新举措：美英澳合作研发水下无人载具/a-77356573?maca=chi-rss-chi-all-1127-rdf",
       "source": "DW 中文",
-      "summary": "美英澳在香格里拉对话上宣布联合研发先进水下无人载具，用于保护海底电缆等关键基础设施。（多家报道）",
+      "summary": "美英澳三国防长在新加坡宣布合作开发水下无人载具先进技术与任务载荷，推动AUKUS军事科技合作与印太安全布局。",
+      "importance": 9
+    },
+    {
+      "title": "美国国会推进美以军事一体化计划",
+      "url": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "summary": "2027年美国国防预算法案中的条款可能使两国武器工业空前紧密整合。",
       "importance": 8
     },
     {
       "title": "特朗普称与伊朗停火延期协议接近达成",
       "url": "https://www.npr.org/2026/05/30/nx-s1-5839359/trump-says-a-ceasefire-extension-deal-with-iran-is-near-but-core-issues-remain",
       "source": "NPR World",
-      "summary": "特朗普表示尚未决定是否延长停火，核心问题仍待解决；以色列继续打击黎巴嫩目标。",
+      "summary": "特朗普表示尚未决定是否延长与伊朗的停火，核心问题仍存；以色列继续攻击黎巴嫩目标。",
       "importance": 8
-    },
-    {
-      "title": "菲防长：特习会后仍面临中国“严重威胁”",
-      "url": "https://www.dw.com/zh/菲防长：特习会后，菲律宾仍面临来自中国的-严重威胁/a-77356177",
-      "source": "DW 中文",
-      "summary": "菲律宾国防部长特奥多罗表示，尽管中美元首会晤后关系缓和，但南海局势依然严峻。",
-      "importance": 7
     }
   ],
-  "editor_note": "AI融资规模再创历史，产品性能争议亦值得关注；地缘博弈持续，印太安全机制加速成型。",
+  "editor_note": "AI融资热潮不断，地缘博弈暗流涌动，全球经济在分化中寻找新平衡。市场需关注宏观政策与供应链变化。",
   "keywords": [
     "Anthropic",
     "Opus 4.8",
-    "美国非农",
-    "软银",
+    "OpenAI",
+    "AI医疗",
     "AUKUS",
-    "伊朗停火",
-    "埃博拉疫情",
-    "菲律宾"
+    "IMF",
+    "软银",
+    "法拉利EV"
   ],
   "trading": {
-    "market_overview": "当前市场技术面分化明显。美股方面，标普500及纳斯达克100指数均接近52周高点，QQQ、SPY等RSI处于70以上超买区，MACD金叉，多头排列强劲，但需警惕短期过热回调。加密市场延续弱势，恐慌贪婪指数仅23（极度恐慌），总市值2.58T，BTC主导率57.4%，ETH占比9.5%。BTC、ETH、SOL均跌破所有主要均线，RSI低至32-40，MACD绿柱扩大，空头排列明确。中概股全面承压，阿里巴巴、拼多多等价格远低于均线，RSI接近超卖，MACD死叉，技术面偏空。商品外汇方面，黄金在均线间震荡，RSI 46.5中性；WTI原油大跌9.33%，RSI降至37.9，MACD死叉；美元指数小幅上行，10Y美债收益率在均线附近盘整。整体上，美股强势与加密、中概的弱势形成对比，风险偏好分化。",
+    "market_overview": "美股方面，SPY与QQQ等主要科技指数ETF呈现强劲上行趋势，RSI分别高达74.1和77.2，处于超买区间，价格接近52周高点，但MACD指标信号线略高于MACD值，显示短期动能可能减弱。加密市场延续弱势，恐慌贪婪指数仅28（恐慌），总市值2.58T美元，BTC主导率57.3%，ETH占比9.4%；BTC-USD、ETH-USD等币种均呈空头排列，RSI在33-40之间，MACD绿柱扩大，下行趋势明显。中概股普遍承压，PDD、BABA等跌破所有主要均线，RSI低于40，空头排列明确。商品外汇方面，黄金期货在均线间震荡，RSI 46.5中性；WTI原油因近5日跌9.33%位于均线下方，RSI 37.9偏弱；美元兑人民币RSI 30.6接近52周低点，维持空头排列。整体技术面分化：美股偏强但超买，加密与中概偏弱，商品外汇中性偏弱。",
     "watchlist": [
       {
-        "symbol": "QQQ",
-        "display_name": "纳斯达克100 ETF (QQQ)",
+        "symbol": "SPY",
+        "display_name": "S&P 500 ETF",
         "stance": "偏上行",
-        "rationale": "当前价格738.31元，RSI 77.2处于超买区，但MACD于近日形成金叉（21.47 > 信号21.44），价格远高于SMA20/50/200（709/653/618），呈标准多头排列。近5日涨幅3.33%，逼近52周高点（仅低0.45%），技术动能强劲，短期超买但趋势未改。"
+        "rationale": "SPY当前价756.48高于所有主要均线（SMA20 739.34、SMA50 703.65、SMA200 681.17），呈现多头排列；RSI 74.1处于超买区，显示强劲上行动能；MACD值12.6983略低于信号线12.8734，但绿柱仍为正；近1日涨0.25%，近5日涨1.85%，接近52周高点（-0.21%）。综合技术形态偏上行，但超买提示短期回调风险。"
       },
       {
         "symbol": "ETH-USD",
-        "display_name": "以太坊 (ETH-USD)",
+        "display_name": "Ethereum",
         "stance": "偏下行",
-        "rationale": "当前价格2017.86元，RSI 32.7接近30超卖线，MACD绿柱扩大（-66.27低于信号-55.10），价格显著低于所有均线（SMA20=2135，SMA50=2247，SMA200=2504），空头排列明确。近5日下跌4.43%，加密恐慌指数仅23极度恐慌，技术面空头主导。"
+        "rationale": "ETH当前价2020.02低于SMA20（2135.13）、SMA50（2247.24）、SMA200（2504.46），呈空头排列；RSI 33接近超卖区，显示弱势；MACD -66.099远低于信号线-55.0691，绿柱（负值）扩大；近5日跌4.33%，较52周高点低59.22%。加密恐慌贪婪指数28（恐慌），整体环境偏空，下行趋势明确。"
+      },
+      {
+        "symbol": "PDD",
+        "display_name": "拼多多 (PDD)",
+        "stance": "偏下行",
+        "rationale": "PDD当前价84.44远低于SMA20（95.79）、SMA50（98.42）、SMA200（113.23），空头排列明确；RSI 32.3接近超卖；MACD死叉（-3.2037 vs -1.7986）；近5日暴跌13.65%，表现疲弱。技术信号指向下行趋势，超卖可能伴随短期反弹但趋势未变。"
       },
       {
         "symbol": "GC=F",
-        "display_name": "黄金期货 (GC=F)",
+        "display_name": "黄金期货",
         "stance": "中性",
-        "rationale": "当前价格4593元，RSI 46.5处于中性区间，价格介于SMA20（4589.69）与SMA50（4630.27）之间，略高于SMA200（4370.85），均线交织无明显方向。MACD绿柱（-51.49低于信号-47.18）显示短期空头动能温和，无突破或反转信号，整体技术面中性。"
+        "rationale": "黄金期货当前价4593紧贴SMA20（4589.69），位于SMA50（4630.27）和SMA200（4370.85）之间，方向不明确；RSI 46.5处于中性区域；MACD -51.4945略低于信号线-47.1837，动能偏弱但未形成死叉；近1日涨2.08%，近5日涨1.17%，波动有限。技术状态中性，等待方向突破。"
+      },
+      {
+        "symbol": "TSLA",
+        "display_name": "Tesla",
+        "stance": "中性",
+        "rationale": "TSLA当前价435.79，高于SMA20（421.39）、SMA50（391.8）和SMA200（412.13），但趋势标为中性；RSI 60偏强，未超买；MACD金叉（12.0668 > 11.3674）；近5日涨4.29%，近1日跌1.43%。价格处于均线上方但信号混合，短期方向不明确，整体呈中性震荡格局。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，本报告仅基于当前技术指标进行客观解读，不构成任何投资建议。所有结论仅供技术指标解读参考，请独立判断并注意风险。",
+    "risk_caveat": "本报告仅基于公开行情数据计算的技术指标进行客观描述，不构成投资建议。过去走势不代表未来表现，所有指标读数仅供参考。仅供技术指标解读参考，投资者应结合自身情况独立判断。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -373,18 +399,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 73689.61,
-        "pct1Day": 0.4321598162970372,
-        "pct5Day": -4.645863035872731,
-        "pct52WeekHigh": -41.607973877888945,
-        "pct52WeekLow": 22.664315663080874,
-        "sma20": 77152.721875,
-        "sma50": 77219.44015625,
-        "sma200": 79662.68267578125,
-        "rsi14": 36.958694847879826,
-        "macd": -1037.3014360610687,
-        "macdSignal": -457.5842540912703,
-        "macdHistogram": -579.7171819697984,
+        "currentPrice": 73787.88,
+        "pct1Day": 0.5660927865644592,
+        "pct5Day": -4.518701947091488,
+        "pct52WeekHigh": -41.53010422425636,
+        "pct52WeekLow": 22.827896693028126,
+        "sma20": 77157.635546875,
+        "sma50": 77221.405625,
+        "sma200": 79663.17404296875,
+        "rsi14": 37.47289159554317,
+        "macd": -1029.461959565233,
+        "macdSignal": -456.01635879196635,
+        "macdHistogram": -573.4456007732666,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -400,18 +426,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 2017.86,
-        "pct1Day": 0.2923234184323722,
-        "pct5Day": -4.428894287845542,
-        "pct52WeekHigh": -59.26587080894349,
-        "pct52WeekLow": 15.39677656942069,
-        "sma20": 2135.025799560547,
-        "sma50": 2247.193601074219,
-        "sma200": 2504.4477593994143,
-        "rsi14": 32.678451297424985,
-        "macd": -66.271357641343,
-        "macdSignal": -55.103577851357386,
-        "macdHistogram": -11.167779789985616,
+        "currentPrice": 2020.02,
+        "pct1Day": 0.3996804296144275,
+        "pct5Day": -4.326591061487785,
+        "pct52WeekHigh": -59.22226732849752,
+        "pct52WeekLow": 15.520302005967308,
+        "sma20": 2135.1338012695314,
+        "sma50": 2247.2368017578124,
+        "sma200": 2504.4585595703124,
+        "rsi14": 33.04262317571843,
+        "macd": -66.09904722246893,
+        "macdSignal": -55.06911576760647,
+        "macdHistogram": -11.029931454862457,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -427,18 +453,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 82.45,
-        "pct1Day": 0.6316328578259481,
-        "pct5Day": -3.0119873489757243,
-        "pct52WeekHigh": -67.43808200232297,
-        "pct52WeekLow": 20.028847685212,
-        "sma20": 86.55152053833008,
-        "sma50": 86.41155944824219,
-        "sma200": 104.79852390289307,
-        "rsi14": 40.254465281893076,
-        "macd": -1.4305976276527588,
-        "macdSignal": -0.8384381546267285,
-        "macdHistogram": -0.5921594730260302,
+        "currentPrice": 82.64,
+        "pct1Day": 0.8635311021314266,
+        "pct5Day": -2.7884855611807655,
+        "pct52WeekHigh": -67.36304544174617,
+        "pct52WeekLow": 20.305445393643655,
+        "sma20": 86.56102066040039,
+        "sma50": 86.41535949707031,
+        "sma200": 104.7994739151001,
+        "rsi14": 40.89725713044279,
+        "macd": -1.4154407377400702,
+        "macdSignal": -0.8354067766442731,
+        "macdHistogram": -0.5800339610957971,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -747,19 +773,19 @@
       }
     ],
     "crypto_fear_greed": {
-      "value": 23,
-      "classification": "Extreme Fear",
-      "classificationCn": "极度恐慌",
-      "timestamp": "2026-05-30T00:00:00.000Z"
+      "value": 28,
+      "classification": "Fear",
+      "classificationCn": "恐慌",
+      "timestamp": "2026-05-31T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2575079113964.235,
-      "total24hVolumeUsd": 58208269155.64952,
-      "marketCapChangePct24h": 0.8169358423085714,
-      "btcDominance": 57.38014324387218,
-      "ethDominance": 9.461501083014296,
+      "totalMarketCapUsd": 2578530550633.672,
+      "total24hVolumeUsd": 58112367400.64339,
+      "marketCapChangePct24h": 0.7510326015672267,
+      "btcDominance": 57.33163538228543,
+      "ethDominance": 9.449888524748788,
       "activeCryptocurrencies": 17403
     },
-    "generated_at": "2026-05-30T23:41:17.045Z"
+    "generated_at": "2026-05-31T00:13:35.869Z"
   }
 }
