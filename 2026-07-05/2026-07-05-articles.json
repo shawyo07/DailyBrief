@@ -6,180 +6,180 @@
       "title": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "excerpt": "Use Codex from Claude Code to review code or delegate tasks.",
-      "meta": "JavaScript · ★ 24,362 · 🍴 1,482 · 📈 716 stars today",
+      "meta": "JavaScript · ★ 24,390 · 🍴 1,482 · 📈 718 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "让 Claude Code 通过该插件直接调用 OpenAI Codex 进行代码审查或委派任务。技术上将 Codex 能力注入到 Claude 生态中，适合需要结合 AI 代码审查与自动任务分发的开发者。"
+      "summary": "在 Claude Code 中集成 OpenAI Codex，用于代码审查和任务委派，通过自然语言交互提升开发效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "excerpt": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "meta": "JavaScript · ★ 83,932 · 🍴 4,677 · 📈 1,089 stars today",
+      "meta": "JavaScript · ★ 83,949 · 🍴 4,677 · 📈 1,089 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Claude Code 技能：通过模仿原始人极简对话风格，将 token 消耗降低 65%。利用 prompt 工程压缩表达，适用于需要节省 API 成本或减少延迟的 AI 辅助编码场景。"
+      "summary": "Claude Code 技能，用原始人式短句减少 65% token 消耗，适用于 API 成本敏感场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "excerpt": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "meta": "TypeScript · ★ 23,082 · 🍴 2,006 · 📈 726 stars today",
+      "meta": "TypeScript · ★ 23,094 · 🍴 2,007 · 📈 742 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "阿里巴巴开源的 JavaScript 页面 GUI Agent，用户用自然语言就能控制网页界面。基于浏览器内 JS 运行，可自动化表单填写、数据抓取等，适合网页测试与无代码交互场景。"
+      "summary": "基于 JavaScript 的页面内 GUI 代理，通过自然语言控制网页界面，实现自动化操作，适用于浏览器端任务。"
     },
     {
       "sourceId": "github-trending",
       "title": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "excerpt": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "meta": "Python · ★ 36,000 · 🍴 3,651 · 📈 1,910 stars today",
+      "meta": "Python · ★ 36,023 · 🍴 3,652 · 📈 1,904 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源 AI 渗透测试工具，自动发现并修复应用安全漏洞。结合 AI 推理生成测试用例与修复建议，适合安全工程师或开发者在 CI/CD 中集成持续安全扫描。"
+      "summary": "开源 AI 渗透测试工具，自动发现并修复应用漏洞，适用于安全工程师的日常安全审计。"
     },
     {
       "sourceId": "github-trending",
       "title": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "excerpt": "Chrome DevTools for coding agents",
-      "meta": "TypeScript · ★ 45,764 · 🍴 2,978 · 📈 303 stars today",
+      "meta": "TypeScript · ★ 45,769 · 🍴 2,979 · 📈 304 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为 AI 编码代理提供 Chrome DevTools 的 MCP（Model Context Protocol）接口。让 LLM 能直接控制浏览器调试面板，适合需要 AI 辅助前端调试、性能分析和自动修复的场景。"
+      "summary": "为编码代理提供 Chrome 开发者工具集成，允许 AI 直接操作浏览器调试面板，提升自动化测试效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "excerpt": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &",
-      "meta": "Rust · ★ 15,225 · 🍴 1,668 · 📈 865 stars today",
+      "meta": "Rust · ★ 15,245 · 🍴 1,670 · 📈 718 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "隐私优先的 AI 会议助手，基于 Rust 实现 4 倍速 Parakeet/Whisper 实时转写、说话人分离和 Ollama 本地摘要。全部在本地运行，无需云端，适合注重数据隐私的团队或个人。"
+      "summary": "隐私优先的 AI 会议助手，基于 Rust 实现本地实时转录、说话人分离和 Ollama 摘要，无需云端，适用于敏感会议场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "excerpt": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "meta": "JavaScript · ★ 48,888 · 🍴 7,978 · 📈 432 stars today",
+      "meta": "JavaScript · ★ 48,903 · 🍴 7,982 · 📈 471 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "收集整理 Anthropic、OpenAI、Google 等主流 AI 模型的系统提示词（system prompts），包括 Claude 系列、ChatGPT、Gemini 等。用于研究模型行为或辅助 prompt 工程设计。"
+      "summary": "泄露的多种 AI 模型（Claude、ChatGPT、Gemini 等）系统提示集合，用于逆向工程和理解模型行为。"
     },
     {
       "sourceId": "github-trending",
       "title": "harvard-edge/cs249r_book",
       "url": "https://github.com/harvard-edge/cs249r_book",
       "excerpt": "Machine Learning Systems",
-      "meta": "Python · ★ 26,552 · 🍴 3,164 · 📈 446 stars today",
+      "meta": "Python · ★ 26,557 · 🍴 3,164 · 📈 443 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "哈佛大学课程 CS249R 的配套教材，主题为机器学习系统。涵盖训练、部署、优化等全栈系统知识，适合 ML 工程师或学生系统学习生产级机器学习基础设施。"
+      "summary": "哈佛大学机器学习系统课程教材，涵盖系统设计、优化与部署，适合学生和工程师系统学习。"
     },
     {
       "sourceId": "github-trending",
       "title": "rommapp/romm",
       "url": "https://github.com/rommapp/romm",
       "excerpt": "A beautiful, powerful, self-hosted rom manager and player.",
-      "meta": "Python · ★ 10,187 · 🍴 493 · 📈 400 stars today",
+      "meta": "Python · ★ 10,196 · 🍴 493 · 📈 398 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自托管的 ROM 管理与播放器，界面美观且功能强大。支持游戏 ROM 的整理、元数据刮削和在线游玩，适合游戏收藏爱好者搭建私有复古游戏库。"
+      "summary": "自托管的游戏 ROM 管理器和播放器，提供美观界面，支持多平台游戏管理，适合复古游戏玩家。"
     },
     {
       "sourceId": "github-trending",
       "title": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "excerpt": "agent multiplexer that lives in your terminal.",
-      "meta": "Rust · ★ 11,415 · 🍴 668 · 📈 706 stars today",
+      "meta": "Rust · ★ 11,427 · 🍴 669 · 📈 707 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "终端中的 AI agent 多路复用器，可以在一个会话中管理多个 AI 代理。适合需要同时与不同 LLM 交互或并行执行任务的开发者和研究者。"
+      "summary": "终端中的 AI 代理多路复用器，可在单个会话中管理多个代理，提升命令行工作流效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "dotnet/skills",
       "url": "https://github.com/dotnet/skills",
       "excerpt": "Repository for skills to assist AI coding agents with .NET and C#",
-      "meta": "C# · ★ 3,799 · 🍴 288 · 📈 57 stars today",
+      "meta": "C# · ★ 3,801 · 🍴 289 · 📈 59 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "微软官方维护的 .NET 与 C# 技能仓库，帮助 AI 编码代理（如 Claude Code、Codex）更好地理解和生成 .NET 代码。包含 API 文档、代码示例和模式定义，提升 AI 辅助开发的准确性。"
+      "summary": "为 AI 编码代理提供 .NET 和 C# 技能集，辅助自动生成、审查和优化 .NET 代码。"
     },
     {
       "sourceId": "github-trending",
       "title": "agentskills/agentskills",
       "url": "https://github.com/agentskills/agentskills",
       "excerpt": "Specification and documentation for Agent Skills",
-      "meta": "Python · ★ 22,317 · 🍴 1,410 · 📈 351 stars today",
+      "meta": "Python · ★ 22,325 · 🍴 1,411 · 📈 351 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Agent Skills 的规范与文档仓库，定义 AI 代理技能的标准接口和元数据格式。旨在促进不同平台（如 Claude、Codex、Gemini）之间的技能互操作性，供技能开发者参考实现。"
+      "summary": "Agent Skills 的规范与文档，定义标准接口，方便开发者创建可复用的 AI 代理技能模块。"
     },
     {
       "sourceId": "github-trending",
       "title": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "excerpt": "High performance self-hosted photo and video management solution.",
-      "meta": "TypeScript · ★ 105,611 · 🍴 6,029 · 📈 198 stars today",
+      "meta": "TypeScript · ★ 105,620 · 🍴 6,029 · 📈 201 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "高性能自托管照片与视频管理方案，提供类似 Google Photos 的体验。支持自动备份、智能搜索、人脸识别等，适合注重隐私且希望自主控制媒体数据的用户。"
+      "summary": "高性能自托管照片和视频管理方案，支持备份、浏览与分享，替代 Google Photos，注重隐私。"
     },
     {
       "sourceId": "github-trending",
       "title": "chthollyphile/folia-major",
       "url": "https://github.com/chthollyphile/folia-major",
       "excerpt": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
-      "meta": "TypeScript · ★ 983 · 🍴 62 · 📈 131 stars today",
+      "meta": "TypeScript · ★ 984 · 🍴 63 · 📈 175 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "本地音乐播放器，专注绚丽的歌词动画效果。兼容本地文件、Navidrome 和第三方网易云音乐播放源，适合追求美观视觉体验的音乐爱好者。"
+      "summary": "专注于绚丽的歌词动画效果的本地音乐播放器，支持 Navidrome 和第三方网易云，为音乐爱好者提供视觉享受。"
     },
     {
       "sourceId": "github-trending",
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "excerpt": "Skills for Real Engineers. Straight from my .claude directory.",
-      "meta": "Shell · ★ 156,530 · 🍴 13,469 · 📈 1,013 stars today",
+      "meta": "Shell · ★ 156,540 · 🍴 13,471 · 📈 973 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "TypeScript 专家 Matt Pocock 公开的 .claude 技能集合，涵盖 TypeScript 最佳实践、模式等。面向真实工程师的 AI 辅助编程技能，可直接用于 Claude Code 等工具。"
+      "summary": "来自资深工程师的 .claude 目录中的技能集，直接用于提升 AI 编码助手在真实项目中的能力。"
     },
     {
       "sourceId": "github-trending",
       "title": "CoplayDev/unity-mcp",
       "url": "https://github.com/CoplayDev/unity-mcp",
       "excerpt": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
-      "meta": "C# · ★ 11,581 · 🍴 1,262 · 📈 68 stars today",
+      "meta": "C# · ★ 11,590 · 🍴 1,262 · 📈 69 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "依据 MCP（Model Context Protocol）构建 Unity 编辑器与 AI 助手的桥梁。LLM 可通过它管理资源、控制场景、编辑脚本和自动化任务，适合游戏开发中 AI 辅助工作流。"
+      "summary": "Unity MCP 作为 AI 助手与 Unity 编辑器之间的桥梁，支持资源管理、场景控制、脚本编辑等自动化任务。"
     },
     {
       "sourceId": "github-trending",
       "title": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "excerpt": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commerc",
-      "meta": "Python · ★ 20,139 · 🍴 2,758 · 📈 197 stars today",
+      "meta": "Python · ★ 20,145 · 🍴 2,759 · 📈 136 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "收录 337 个 Claude Code 技能、插件和自定义命令，支持 Claude、Codex、Gemini CLI、Cursor 等 11 种编码代理。包含 Agent 配置、参考脚本和可定制引用，适合快速扩展 AI 开发能力。"
+      "summary": "337 个 Claude Code 技能与代理技能的集合，涵盖自定义命令、插件和引用，适用于多种编码代理。"
     },
     {
       "sourceId": "github-trending",
       "title": "crynta/terax-ai",
       "url": "https://github.com/crynta/terax-ai",
       "excerpt": "Lightweight (7MB) Terminal-first AI-native dev workspace",
-      "meta": "TypeScript · ★ 8,041 · 🍴 859 · 📈 44 stars today",
+      "meta": "TypeScript · ★ 8,046 · 🍴 861 · 📈 62 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "轻量级（7MB）、终端优先的 AI 原生开发工作空间。整合 LLM 交互与终端命令，提供流畅的 AI 辅助编程体验，适合偏好终端操作且注重资源占用的开发者。"
+      "summary": "轻量级（7MB）终端优先的 AI 原生开发工作空间，集成 AI 能力，适合追求极简高效的开发者。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -214,15 +214,6 @@
       "url": "https://www.v2ex.com/t/1224664",
       "excerpt": "35 回复 · Apple 节点",
       "publishedAt": "2026-07-03T01:39:28.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "你喜欢注释丰富， Commit Message 详尽，还是反之？",
-      "url": "https://www.v2ex.com/t/1224882",
-      "excerpt": "27 回复 · 程序员 节点",
-      "publishedAt": "2026-07-04T01:29:51.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -345,6 +336,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "MBA 的音质真垃圾",
+      "url": "https://www.v2ex.com/t/1224688",
+      "excerpt": "11 回复 · Apple 节点",
+      "publishedAt": "2026-07-03T02:42:19.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "我开发了一款像 iOS 自带的多功能聚合翻译 App，目前正在 TestFlight 公开测试中，欢迎使用~",
       "url": "https://www.v2ex.com/t/1224621",
       "excerpt": "11 回复 · Apple 节点",
@@ -358,15 +358,6 @@
       "url": "https://www.v2ex.com/t/1224850",
       "excerpt": "10 回复 · Apple 节点",
       "publishedAt": "2026-07-03T14:02:10.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "MBA 的音质真垃圾",
-      "url": "https://www.v2ex.com/t/1224688",
-      "excerpt": "10 回复 · Apple 节点",
-      "publishedAt": "2026-07-03T02:42:19.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -403,6 +394,15 @@
       "url": "https://www.v2ex.com/t/1214517",
       "excerpt": "8 回复 · Python 节点",
       "publishedAt": "2026-05-21T13:16:26.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "Linux 上的游戏网络加速",
+      "url": "https://www.v2ex.com/t/1223240",
+      "excerpt": "8 回复 · Linux 节点",
+      "publishedAt": "2026-06-26T17:11:17.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -684,7 +684,7 @@
       "publishedAt": "2026-07-03T14:25:43.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "Google DeepMind与电影公司A24宣布首个此类研究合作，旨在探索AI与创意产业的结合。"
+      "summary": "Google DeepMind与电影公司A24宣布建立首次联合研究合作伙伴关系。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -1225,7 +1225,7 @@
       "publishedAt": "2026-07-03T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Meta推出Watermelon项目，Anthropic与三星芯片达成合作，autoresearch实践取得进展。"
+      "summary": "Meta推出Watermelon项目，Anthropic与三星合作芯片，自研究（autoresearch）进入实践阶段。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1235,7 +1235,7 @@
       "publishedAt": "2026-07-02T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Gemini Flash升级，Meta推出AI云服务，ZCode项目取得新进展。"
+      "summary": "Gemini Flash升级，Meta AI云服务更新，ZCode发布。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1407,7 +1407,7 @@
       "publishedAt": "2026-07-02T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Fullstack Code Arena扩展编码智能体评估至数据库、API密钥和部署；LangChain发布LangSmith统一追踪和OpenWiki自动文档生成。"
+      "summary": "Fullstack Code Arena扩展编码智能体评估至数据库、API密钥等，转向端到端应用交付；LangChain发布LangSmith与OpenWiki。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1678,7 +1678,7 @@
       "publishedAt": "2026-07-03T05:11:43.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI工程师世界博览会闭幕，围绕循环的辩论、AI工程现状报告及下一步构建内容的关键演讲成为焦点。"
+      "summary": "AI工程师世界博览会闭幕，围绕循环（loops）的辩论、AI工程现状报告以及关于下一步构建方向的闭幕演讲成为焦点。"
     },
     {
       "sourceId": "latent-space",
@@ -1688,7 +1688,7 @@
       "publishedAt": "2026-07-03T00:08:18.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Vercel软件主管Andrew Qu阐述其代理框架eve的创建过程，并强调技能、沙箱和代理可读网站的重要性。"
+      "summary": "Vercel软件主管Andrew Qu阐述了其智能体框架eve的创建过程，并说明技能、沙盒和智能体可读网站的重要性。"
     },
     {
       "sourceId": "latent-space",
@@ -1698,7 +1698,7 @@
       "publishedAt": "2026-07-02T21:25:14.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Adobe正在试验根据用户意图生成页面的“代理型网站”，在AIEWF上专家Carlos Sanchez讨论了Web的未来。"
+      "summary": "Adobe正在试验“智能体网站”，可根据用户意图动态生成页面。在AIEWF上，Carlos Sanchez探讨了Web的未来。"
     },
     {
       "sourceId": "latent-space",
@@ -1708,7 +1708,7 @@
       "publishedAt": "2026-07-02T14:36:05.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Paul Bakaus讨论Impeccable项目，认为在“循环最大化”时代人类判断不可或缺，代理仍需人类引导。"
+      "summary": "Paul Bakaus讨论了Impeccable、人类判断在“循环最大化”时代的作用，以及为何智能体仍需人类引导。"
     },
     {
       "sourceId": "latent-space",
@@ -1718,7 +1718,7 @@
       "publishedAt": "2026-07-02T07:10:14.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "当天AI领域没有重大事件发生，市场相对平静。"
+      "summary": "当日AI领域相对平静，无重大事件发生。"
     },
     {
       "sourceId": "latent-space",
@@ -1728,7 +1728,7 @@
       "publishedAt": "2026-07-02T06:13:49.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AIEWF日报：autoresearch引发AI与人类自主权之间的紧张关系，演讲者强调人类理解与控制的重要性。"
+      "summary": "AIEWF日报：自研究（autoresearch）引发AI与人类主体性之间的张力，发言者呼吁维护人类理解与控制。"
     },
     {
       "sourceId": "latent-space",
@@ -1738,7 +1738,7 @@
       "publishedAt": "2026-07-01T23:52:30.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Introspection联合创始人Roland Gavrilescu解释autoresearch、代理“配方”和自我改进循环，强调人类在软件工厂中的核心地位。"
+      "summary": "Introspection联合创始人Roland Gavrilescu解释自研究（autoresearch）、智能体“配方”、自我改进循环，以及人类在软件工厂中的核心地位。"
     },
     {
       "sourceId": "latent-space",
@@ -1758,7 +1758,7 @@
       "publishedAt": "2026-07-01T14:42:39.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Llama负责人离开Meta投身药物发现，PEARL的零样本OpenBind获胜，共折叠达到准确阈值后带来新可能。"
+      "summary": "Llama负责人离开Meta投身药物发现，PEARL在OpenBind零样本获胜，共折叠突破准确率阈值带来新可能。"
     },
     {
       "sourceId": "latent-space",
@@ -1867,7 +1867,7 @@
       "publishedAt": "2026-07-02T15:37:08.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "AI助力运营卓越：精益六西格玛和BPM等框架通过统计严谨和质量控制为混乱运营带来秩序，AI进一步推动变革。"
+      "summary": "AI助力实现卓越运营，借鉴精益六西格玛和业务流程管理框架，为混乱运营带来秩序，强调统计严谨、质量控制及端到端管理。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1877,7 +1877,7 @@
       "publishedAt": "2026-07-02T12:51:44.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "AI在物理基础设施、运营连续性和安全等工业领域的应用正在展开，本文探讨如何让AI与涡轮机协同工作。"
+      "summary": "AI在物理基础设施、运营连续性和安全性等工业场景中的实际应用，远比面向消费者的工具更重要。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1960,7 +1960,7 @@
       "category": "tech",
       "meta": "@philhchen · 9.1K 粉丝 · 179.1K 阅 · 516 赞 · 34 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "职业建议：AI擅长可写损失函数的问题，而学校大多就是此类问题（有已知答案的评分）。未来有价值的工作在于定义损失函数、选择问题而非解题。"
+      "summary": "AI擅长优化有明确损失函数的问题，与学校教育高度重合（标准答案）。未来有价值的工作在于无法被简单量化的领域，提醒专注不可算法化的技能。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1971,7 +1971,7 @@
       "category": "tech",
       "meta": "@arthurmensch · 74.0K 粉丝 · 162.7K 阅 · 539 赞 · 76 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "企业领导者应使用开源模型，因为闭源模型提供商强制数据留存，对企业形成杠杆。开放模型才能保障自身增长和自主权。"
+      "summary": "企业领导者应优先选择开源模型。闭源模型提供商通过数据保留条款对业务施加杠杆，使用开源模型才能掌控数据与增长。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1982,7 +1982,7 @@
       "category": "tech",
       "meta": "@EXM7777 · 121.1K 粉丝 · 83.6K 阅 · 518 赞 · 48 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Fable 5 教程：如何将其变成\"第二大脑\"，深度了解你的业务并产出与众不同的结果。分步演示将工具转化为个性化知识引擎与输出机器。"
+      "summary": "手把手教程：将Fable 5打造成「第二大脑」，深度了解你的业务并输出个性化结果。构建知识系统实现差异化输出。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1993,7 +1993,7 @@
       "category": "tech",
       "meta": "@AlexFinn · 459.5K 粉丝 · 72.5K 阅 · 565 赞 · 34 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Fable 5不是\"vibe coding\"工具，而是操作系统级工具。最宝贵用途是构建系统而非随意编程。24小时内应聚焦其系统架构能力。"
+      "summary": "Fable 5不是「氛围编码」工具，而是操作系统级工具。博主认为用它写代码是错误用法，应将其视为编排底层系统的引擎。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2004,7 +2004,7 @@
       "category": "tech",
       "meta": "@addyosmani · 404.9K 粉丝 · 53.5K 阅 · 525 赞 · 66 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Agent自主性层级：工程焦点从提示转向操作。前沿方向包括软件工厂、目标驱动、循环、后台会话等，提升AI代理的自主运作能力。"
+      "summary": "探讨智能体自主性层级：从「提示」转向「操作」。提出软件工厂、目标循环、后台会话等概念，描绘下一代智能体工程方向。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2015,7 +2015,7 @@
       "category": "tech",
       "meta": "@trq212 · 299.3K 粉丝 · 40.1K 阅 · 534 赞 · 43 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "与Fable 5合作的体会：地图不等于疆域。提示、技能和上下文只是工作表征，实际解决问题需不断发现未知，迭代认知模型。"
+      "summary": "使用Claude Fable 5的感悟：提示词、技能、上下文只是「地图」而非实际工作。提醒区分规划与执行，避免过度依赖预设提示。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2026,7 +2026,7 @@
       "category": "tech",
       "meta": "@ericzakariasson · 76.4K 粉丝 · 37.9K 阅 · 567 赞 · 24 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Fable在Cursor中回归。模式：让Fable做调度者（orchestrator），Composer做工作线程（workers）。还有其他充分利用模型的方法。"
+      "summary": "Fable重回Cursor后的使用模式：将Fable作为编排者、Composer作为执行者。分享分工协作工作流以最大化模型效率。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2037,7 +2037,16 @@
       "category": "tech",
       "meta": "@0xkozue · 690 粉丝 · 24.9K 阅 · 501 赞 · 46 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "一页PyTorch训练流水线速查表：深度学习引擎靠不断微调权重。提供完整训练流程代码模板，适合快速参考。欢迎纠错和建议。"
+      "summary": "一页PyTorch训练流水线速查表，覆盖权重更新到完整数据管线关键步骤。面向深度学习实践者，简洁实用。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Storms Prompt Evacuations at Washington’s July 4 Festivities",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/extreme-heat-breaks-across-eastern-us-severe-thunderstorms-to-follow",
+      "excerpt": "Thunderstorms are set to batter July 4 celebrations in Washington, DC, and New York as a waning heat dome continues to test electricity grids in the eastern US, following record power demand over the past few days.",
+      "publishedAt": "2026-07-04T10:14:17.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2047,16 +2056,7 @@
       "publishedAt": "2026-07-04T18:50:38.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Bloomberg This Weekend节目由David Gura、Christina Ruffini和Lisa Mateo主持，在纽约直播，带来周末头条新闻并邀请嘉宾讨论。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Thunderstorms Set to Pummel America 250 Events as Heat Ebbs",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-04/extreme-heat-breaks-across-eastern-us-severe-thunderstorms-to-follow",
-      "excerpt": "Thunderstorms are set to batter July 4 celebrations in Washington, DC, and New York as a waning heat dome continues to test electricity grids in the eastern US, following record power demand over the past few days.",
-      "publishedAt": "2026-07-04T10:14:17.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "summary": "该节目在纽约直播，主持人大卫·古拉、克里斯蒂娜·鲁菲尼和丽莎·马特奥回顾周末重大新闻，嘉宾包括罗格斯大学美国研究荣誉教授罗伯特·斯奈德等。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2066,7 +2066,7 @@
       "publishedAt": "2026-07-04T20:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "德国下周将公布伊朗战争对经济的累积影响数据，为政府最新刺激经济举措（唤醒动物精神）奠定基础。"
+      "summary": "德国下周公布的数据将显示伊朗战争的累积影响，为政府最新刺激措施奠定基础，旨在激活欧洲最大经济体的经济活力。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2076,7 +2076,7 @@
       "publishedAt": "2026-07-04T19:20:57.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "委内瑞拉官方上周双地震死亡人数升至近3000人。"
+      "summary": "委内瑞拉官方宣布，上周双震的死亡人数在周六升至接近3000人。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2086,7 +2086,7 @@
       "publishedAt": "2026-07-04T18:10:22.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美国7月4日海军检阅中展示下一代空中力量，退役陆军上校Wayne Sanders解读其对美军实力的体现。"
+      "summary": "美国独立日期间，退役美军上校韦恩·桑德斯在哈德逊河Sail4th 250活动中表示，飞行表演展示了美国军事的下一代空中力量。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2096,7 +2096,7 @@
       "publishedAt": "2026-07-04T17:56:29.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "巴西财长Dario Durigan表示，总统Lula政府推出的信贷措施不会削弱货币政策。"
+      "summary": "巴西财政部长达里奥·杜里甘表示，卢拉政府推出的信贷措施不会削弱货币政策，不会对货币政策产生影响。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2106,7 +2106,7 @@
       "publishedAt": "2026-07-04T17:40:03.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "马里兰州州长Wes Moore称爱国主义应团结而非分裂美国人，服务与牺牲定义爱国，仍是实现国家承诺的基础。"
+      "summary": "马里兰州州长韦斯·穆尔表示，爱国主义应团结而非分裂美国人，服务和牺牲而非政治定义爱国，对实现国家创始承诺至关重要。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2116,7 +2116,7 @@
       "publishedAt": "2026-07-04T17:22:18.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "科尼岛联盟执行主任Daniel Murphy表示，科尼岛将设立永久性商业改善区，并计划投资10亿美元重建木板路，进入新增长阶段。"
+      "summary": "康尼岛联盟执行董事丹尼尔·墨菲表示，该岛正进入新增长阶段，计划投资10亿美元重建木板路，并设立永久商业改善区。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2126,7 +2126,7 @@
       "publishedAt": "2026-07-04T17:12:19.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Jim Beam第7、8代首席酿酒师Fred和Freddie Noe分享品牌230年传统，旗舰波本威士忌仍沿用原始配方。"
+      "summary": "占美威士忌第七代和第八代首席蒸馏师弗雷德和弗雷迪·诺伊分享了该品牌230年的历史与传统，旗舰波本威士忌仍沿用原始配方。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2136,7 +2136,7 @@
       "publishedAt": "2026-07-04T16:35:44.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "USO首席执行官Michael Linnington称，该组织已从二战起源扩展至全球260个地点，为部署军人提供连接、舒适和娱乐，加强与本土联系。"
+      "summary": "USO首席执行官迈克尔·林宁顿称，该组织已从二战起源扩展至全球260个地点，为部署军人提供通讯、舒适和娱乐服务。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2146,7 +2146,7 @@
       "publishedAt": "2026-07-04T16:19:40.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "记者Brittany Spanos称Taylor Swift与Travis Kelce的婚姻反映其个人生活新阶段，凸显流行文化与体育明星的文化影响力。"
+      "summary": "记者布列塔尼·斯帕诺斯称，泰勒·斯威夫特与特拉维斯·凯尔西的关系（现已结婚）反映了歌手个人生活的新公开阶段，凸显流行明星与体育明星伴侣关系的文化影响。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2166,7 +2166,7 @@
       "publishedAt": "2026-07-04T15:39:27.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "凯雷集团联合创始人David Rubenstein解释其“爱国慈善”动机，专注于保存美国历史文件和纪念碑。"
+      "summary": "凯雷集团联合创始人戴维·鲁宾斯坦分享其爱国慈善动机，专注于保存美国关键历史文件和纪念碑。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3381,8 +3381,7 @@
       "excerpt": "Alexandra Eala dedicates her stunning win over defending Wimbledon champion Iga Swiatek to \"all the girls with ruffled socks and chubby cheeks\".",
       "publishedAt": "2026-07-04T20:19:11.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "亚历山德拉·埃拉击败卫冕温网冠军伊加·斯瓦泰克，这场惊人胜利献给“所有穿着褶边袜子、脸颊胖乎乎的女孩”。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3428,7 +3427,7 @@
       "publishedAt": "2026-07-04T21:46:43.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "伊朗前最高领袖的葬礼被视为“高度政治化的时刻”。当局预计未来几天伊朗和伊拉克将有多达2000万人参加相关仪式。"
+      "summary": "伊朗前最高领袖哈梅内伊的葬礼被视为极其政治化的时刻。当局预计未来几天将有高达2000万人参加在伊朗和伊拉克举行的仪式。"
     },
     {
       "sourceId": "bbc-world",
@@ -3492,7 +3491,7 @@
       "publishedAt": "2026-07-04T20:32:52.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "考古学家在埃及西部沙漠发现一座保存完好的拜占庭时期城市。四世纪的街区揭示了日常生活、城市发展和经济活动的细节。"
+      "summary": "考古学家在埃及西部沙漠发现一座保存完好的拜占庭时期城市遗迹，包括第四世纪的居住区和宗教建筑，揭示了日常生活、城市发展和经济活动细节。"
     },
     {
       "sourceId": "guardian-world",
@@ -3622,22 +3621,23 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Australia news live: Albanese to target rightwing ‘race to the bottom’ at NSW Labor conference; first east coast bird flu case confirmed",
+      "title": "Australia news live: Dan Tehan says Liberals ‘not entertaining’ idea of coalition with One Nation; first east coast bird flu case confirmed",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/05/australia-news-live-albanese-labor-nsw-h5-bird-flu-angus-taylor-liberal-coalition-pauline-hanson-ntwnfb",
-      "excerpt": "Follow the day’s news live Get our breaking news email, free app or daily news podcast A giant petrel found on the New Sputh Wales coast at Hawks Nest, north of Newcastle, has been confirmed as the state’s first case of the deadly H5N1 strain of bird flu. The positive test is the sixth confirmed cas",
-      "publishedAt": "2026-07-04T23:13:44.000Z",
+      "excerpt": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Government must report back on Great Barrier Reef in two years, Unesco recommends United Nations advisors have expressed “utmost concern” about the future of the Great Barrier Reef and said the government’s climat",
+      "publishedAt": "2026-07-05T00:01:25.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚总理阿尔巴尼斯将在新州工党会议上批评右翼“竞次”政策。新州海岸发现一只巨型海燕，确诊为该州首例致命H5N1禽流感病例。"
+      "summary": "澳大利亚自由党议员丹·特汉表示自由党不考虑与一国党联合执政。东海岸确认首例禽流感病例。联合国教科文组织建议澳大利亚两年内报告大堡礁状况。"
     },
     {
       "sourceId": "guardian-world",
-      "title": "Norfolk Island’s unique corals under triple threat from disease, El Niño and now government-approved dredging",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/05/norfolk-islands-unique-corals-under-triple-threat-from-disease-el-nino-and-now-government-approved-dredging",
-      "excerpt": "Exclusive: Most of the island’s corals are likely to be species that have not been formally described by science, researcher says Get our breaking news email, free app or daily news podcast Scientists fear unique corals that fringe Australia’s remote Norfolk Island could disappear because of a tripl",
-      "publishedAt": "2026-07-04T20:00:07.000Z",
+      "title": "Woman charged with murder after body of four-year-old boy found in Central Coast home",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/05/woman-arrested-after-body-of-four-year-old-boy-found-wyong-central-coast-ntwnfb",
+      "excerpt": "Police are investigating what happened to a boy who was found with significant arm injuries Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A woman has been charged with murder after police found the body of a pre-schooler at a home ",
+      "publishedAt": "2026-07-04T23:50:49.000Z",
       "category": "politics",
-      "source": "The Guardian"
+      "source": "The Guardian",
+      "summary": "澳大利亚中央海岸一名四岁男童被发现死于家中，手臂有重伤。一名女子已被警方以谋杀罪指控。"
     },
     {
       "sourceId": "guardian-world",
@@ -3650,19 +3650,19 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Sydney records hottest June since 1859 as expert warns new high a ‘signature’ of global warming",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/04/sydney-records-hottest-june-since-1859-as-expert-warns-new-high-a-signature-of-global-warming",
-      "excerpt": "Bureau of Meteorology says city’s mean temperature reached 16.1C, surpassing the previous record of 15.7C set in 1991 Get our breaking news email, free app or daily news podcast Sydney has officially experienced its hottest June since records began, after a winter month of spring-like warmth. While ",
-      "publishedAt": "2026-07-04T04:37:24.000Z",
+      "title": "Norfolk Island’s unique corals under triple threat from disease, El Niño and now government-approved dredging",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/05/norfolk-islands-unique-corals-under-triple-threat-from-disease-el-nino-and-now-government-approved-dredging",
+      "excerpt": "Exclusive: Most of the island’s corals are likely to be species that have not been formally described by science, researcher says Get our breaking news email, free app or daily news podcast Scientists fear unique corals that fringe Australia’s remote Norfolk Island could disappear because of a tripl",
+      "publishedAt": "2026-07-04T20:00:07.000Z",
       "category": "politics",
       "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
-      "title": "Chris Minns says Labor needs to ‘climb Everest’ to stay in power as One Nation looms over state conference",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/04/chris-minns-admits-nsw-labor-needs-to-climb-everest-to-stay-in-power-as-protesters-interrupt-state-conference-ntwnfb",
-      "excerpt": "The New South Wales premier warns of rising threat of Pauline Hanson’s party as he addresses party conference Get our breaking news email, free app or daily news podcast The New South Wales premier, Chris Minns, has admitted the Labor party needs to “climb Everest” to stay in power amid the rising t",
-      "publishedAt": "2026-07-04T04:15:38.000Z",
+      "title": "Sydney records hottest June since 1859 as expert warns new high a ‘signature’ of global warming",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/04/sydney-records-hottest-june-since-1859-as-expert-warns-new-high-a-signature-of-global-warming",
+      "excerpt": "Bureau of Meteorology says city’s mean temperature reached 16.1C, surpassing the previous record of 15.7C set in 1991 Get our breaking news email, free app or daily news podcast Sydney has officially experienced its hottest June since records began, after a winter month of spring-like warmth. While ",
+      "publishedAt": "2026-07-04T04:37:24.000Z",
       "category": "politics",
       "source": "The Guardian"
     },
@@ -3764,7 +3764,7 @@
       "publishedAt": "2026-07-04T20:44:42.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "葬礼上的暂时团结掩盖了伊朗领导层内部的深刻分歧。阿亚图拉穆杰塔巴·哈梅内伊的缺席引发谁在真正管理国家的疑问，并让公开分歧加剧。"
+      "summary": "伊朗最高领袖葬礼上的暂时团结掩盖了领导层内部的深刻分歧。穆杰塔巴·哈梅内伊的缺席引发关于谁真正掌管国家的疑问，公开分歧持续发酵。"
     },
     {
       "sourceId": "nyt-world",
@@ -3774,7 +3774,7 @@
       "publishedAt": "2026-07-04T20:39:12.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "伊朗为期多日的公众哀悼活动开始，大批民众聚集在德黑兰瞻仰哈梅内伊的灵柩。他在美以袭击开始时被杀。"
+      "summary": "德黑兰街头聚集大量民众参加哈梅内伊的国葬。数天公开哀悼开始，伊朗民众瞻仰了哈梅内伊的灵柩。哈梅内伊是在美以攻击初期被杀的。"
     },
     {
       "sourceId": "nyt-world",
@@ -3784,7 +3784,7 @@
       "publishedAt": "2026-07-04T23:18:51.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "哈里王子将前往伦敦，但妻子梅根及子女不会同行。据接近其家庭的人士称，他们可能在未来于首都外的其他行程中与他会合。"
+      "summary": "哈里王子计划前往伦敦，但其妻子梅根和子女不会一同前往首都。知情人士称他们可能在伦敦外的其他行程中会合。"
     },
     {
       "sourceId": "nyt-world",
@@ -3875,7 +3875,7 @@
       "publishedAt": "2026-07-04T21:40:49.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "受美国总统特朗普威胁吞并丹麦领土格陵兰岛的影响，丹麦百年历史的美国独立日庆祝活动今年取消美国官员参与，并出现抗议活动。"
+      "summary": "因美国总统特朗普威胁夺取丹麦自治领土格陵兰，丹麦百年历史的美国独立日庆祝活动今年不同寻常：取消了美国官员参与，并出现抗议活动。"
     },
     {
       "sourceId": "nyt-world",
@@ -3885,7 +3885,7 @@
       "publishedAt": "2026-07-04T21:37:21.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "加拿大男足的世界杯之旅在周六对阵摩洛哥后结束，但球队作为参赛队和东道主取得的成功可能会持续，加拿大掀起足球热潮。"
+      "summary": "加拿大在世界杯中意外闯入淘汰赛，周六负于摩洛哥结束征程。但作为球队和主办国，加拿大的成功预计将持续，足球成为该国新热潮。"
     },
     {
       "sourceId": "nyt-world",
@@ -3895,7 +3895,7 @@
       "publishedAt": "2026-07-04T20:22:03.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "伊朗新领导人正在纪念在美以对伊战争首日被杀的哈梅内伊，其葬礼规模与形式在近代史上独一无二。"
+      "summary": "伊朗新领导层正在纪念已故最高领袖哈梅内伊。他在美国与以色列对伊朗战争的首日被杀，葬礼规模史无前例。"
     },
     {
       "sourceId": "nyt-world",
@@ -4040,7 +4040,7 @@
       "publishedAt": "2026-07-04T21:03:51.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "乌克兰称现在能打击俄罗斯纵深军事和能源目标。前大使Daniel Fried分析认为，俄罗斯正开始丧失战略优势。"
+      "summary": "乌克兰进入战争新阶段，声称有能力打击俄罗斯境内深处的军事和能源目标。前美国大使丹尼尔·弗里德认为俄罗斯正开始失去战略优势。"
     },
     {
       "sourceId": "npr-world",
@@ -4050,7 +4050,7 @@
       "publishedAt": "2026-07-04T21:03:49.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "教皇利奥十四世于7月4日访问意大利兰佩杜萨岛，这里是欧洲最繁忙的移民登陆点之一。他将与移民一起祈祷，并纪念试图穿越地中海前往欧洲途中遇难的人。"
+      "summary": "教皇利奥十四世于7月4日访问意大利兰佩杜萨——欧洲最繁忙的移民登陆点之一。他与移民一起祈祷，并缅怀试图穿越地中海前往欧洲时遇难的人。"
     },
     {
       "sourceId": "npr-world",
@@ -4060,7 +4060,7 @@
       "publishedAt": "2026-07-04T21:03:46.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "伊朗开始为期一周的哈梅内伊葬礼活动，外国政要齐聚。阿亚图拉·哈梅内伊在四个月前死于美以空袭。"
+      "summary": "伊朗开始为期一周的已故最高领袖哈梅内伊葬礼活动。外国政要聚集伊朗。哈梅内伊于四个多月前在美国和以色列的空袭中丧生。"
     },
     {
       "sourceId": "npr-world",
@@ -4397,13 +4397,31 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Ticket prices plunge for USA-Belgium World Cup last-16 match",
+      "url": "https://www.aljazeera.com/sports/2026/7/4/ticket-prices-plunge-for-us-belgium-world-cup-last-16-match?traffic_source=rss",
+      "excerpt": "The price for the final 2026 World ⁠Cup match in Seattle hit nearly $4,000 but dipped as low as $1,549 ⁠on Tuesday.",
+      "publishedAt": "2026-07-04T23:36:37.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Mbappe draws level with Messi as France beat Paraguay to set up Morocco tie",
+      "url": "https://www.aljazeera.com/sports/2026/7/4/mbappe-draws-level-with-messi-as-france-beat-paraguay-to-set-up-morocco-tie?traffic_source=rss",
+      "excerpt": "Kylian Mbappe moves level with Lionel Messi on seven goals at World Cup 2026 as France beat Paraguay 1-0 in last 16.",
+      "publishedAt": "2026-07-04T23:25:33.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "US influence challenged by changing global order: Paolo von Schirach",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/us-influence-challenged-by-changing-global-order-paolo-von-schirach?traffic_source=rss",
       "excerpt": "US influence challenged by changing global order: Paolo von Schirach",
       "publishedAt": "2026-07-04T22:10:39.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "学者Paolo von Schirach指出，美国的影响力正受到不断变化的全球秩序的挑战。"
+      "summary": "分析人士保罗·冯·席拉赫指出，美国影响力正受到不断变化的全球秩序挑战。"
     },
     {
       "sourceId": "aljazeera",
@@ -4413,7 +4431,7 @@
       "publishedAt": "2026-07-04T21:08:18.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "伊朗为已故最高领袖哈梅内伊举行葬礼第二天，大批民众无视热浪，参加送葬队伍。"
+      "summary": "伊朗民众无视热浪，大量聚集参加已故最高领袖哈梅内伊葬礼的第二天悼念活动。"
     },
     {
       "sourceId": "aljazeera",
@@ -4601,24 +4619,6 @@
       "url": "https://www.aljazeera.com/news/2026/7/4/pope-urges-protection-integration-of-migrants-on-visit-to-island-frontier?traffic_source=rss",
       "excerpt": "Pontiff urges people in Europe and US to welcome and assist migrants during symbolic trip to Italy’s frontier island.",
       "publishedAt": "2026-07-04T12:17:29.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Firefighters race to contain flames in northeastern Spain",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/firefighters-race-to-contain-flames-in-northeastern-spain?traffic_source=rss",
-      "excerpt": "Firefighters race to contain flames in northeastern Spain",
-      "publishedAt": "2026-07-04T12:09:27.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "England vs Mexico at Azteca: Kickoff, altitude and weather explained",
-      "url": "https://www.aljazeera.com/sports/2026/7/4/england-mexico-fifa-world-cup-azteca-kickoff-altitude-weather-explained?traffic_source=rss",
-      "excerpt": "The pitch at the Azteca is 2,240 metres above sea level. At that altitude, air is thinner and makes breathing difficult.",
-      "publishedAt": "2026-07-04T11:27:18.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
