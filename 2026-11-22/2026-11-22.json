@@ -1,148 +1,148 @@
 {
-  "hero_headline": "Anthropic 万亿估值上市后急跌，AI 股拖累美股进入修正",
-  "daily_overview": "技术侧，谷歌一次性铺开 Gemini 4 多档模型与 Genie 4 世界模型，OpenAI 转而防御模型蒸馏，GitHub 上的 Agent 工具链持续升温。资本侧，Anthropic 以 1.5 万亿美元估值完成史上最大 IPO，随后股价回落，AI 股抛售把标普 500 与道指拖入修正区间；SpaceX 用 320 亿美元债券为芯片采购融资，亚马逊加码收购算力标的。时政侧，COP31 因化石燃料退出条款僵持，习特深圳峰会成果仍待评估，墨西哥头号毒枭落网。",
+  "hero_headline": "AI 资本热潮两面：Anthropic 万亿上市，科技股回调",
+  "daily_overview": "技术侧，谷歌 Gemini 4 的 Hydrogen、Carbon、Neon 三档模型与 Genie 4 世界模型同步铺开，AI Studio 已能凭一句话生成并上架安卓全栈应用；开源社区则聚焦让软件「智能体原生」的技能框架与命令行工具。资本侧情绪分化：Anthropic 以 1.5 万亿美元估值完成史上最大 IPO 却首日高开低走，标普 500 与道指双双进入回调；亚马逊洽购 Decart、SpaceX 拟发 320 亿美元债买芯片，AI 基建的融资结构正在重写。时政方面，墨西哥在美方情报配合下抓获头号毒枭，FBI 犯罪数据库疑遭入侵，中美深圳峰会后进入新一轮博弈观察期。",
   "tech_briefs": [
     {
-      "title": "Gemini 4 多档模型与 Genie 4 世界模型发布",
+      "title": "谷歌发布 Gemini 4 三档模型与 Genie 4",
       "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
       "source": "DeepMind Blog",
-      "summary": "谷歌 DeepMind 接连推出 Gemini 4 Hydrogen、Neon 等型号，并向开发者开放 Genie 4 世界模型，Google AI Studio 已支持用其构建并发布全栈安卓应用。（多家报道）",
+      "summary": "DeepMind 推出 Gemini 4 的 Hydrogen、Carbon、Neon 三档模型，并开放 Genie 4 世界模型；Google AI Studio 支持从单句提示构建完整安卓应用并直接发布至 Play Store。（多家报道）",
       "importance": 9
     },
     {
-      "title": "OpenAI 发布对抗性蒸馏防御方案",
+      "title": "OpenAI 发布对抗性蒸馏分层防御方案",
       "url": "https://openai.com/index/combatting-adversarial-distillation",
       "source": "OpenAI News",
-      "summary": "OpenAI 称采用模型训练、安全护栏、行为检测与执法追责等多层手段，防止外部通过蒸馏批量提取前沿模型能力，以保护其技术与商业利益。",
+      "summary": "OpenAI 称采用模型训练、安全护栏、检测与执法相结合的分层策略，阻止外部通过蒸馏手段提取模型能力，回应近期多起能力窃取争议。",
       "importance": 7
     },
     {
-      "title": "METR 报告：部分 AI 能力仍沿指数曲线提升",
+      "title": "METR 报告：部分 AI 能力仍沿指数轨迹提升",
       "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
       "source": "MIT Tech Review AI",
-      "summary": "AI 评估机构 METR 更新其常被误读的能力曲线，显示部分任务上模型能力仍指数级提升，但在另一些任务上进展不及预期，引发对评测口径的讨论。",
-      "importance": 6
-    },
-    {
-      "title": "CLI-Anything：让所有软件原生支持 Agent",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "source": "GitHub Trending",
-      "summary": "该项目为各类软件自动生成命令行接口层，使 AI Agent 能直接调用原本没有 API 的桌面与命令行工具，从而降低 Agent 接入既有软件生态的成本。",
-      "importance": 6
+      "summary": "AI 评估非营利机构 METR 的新报告显示，部分 AI 能力仍沿指数轨迹持续改进，但模型在某些任务上的表现不及外界预期，为 AI 进展之争提供新数据。",
+      "importance": 7
     },
     {
       "title": "Claude-BugHunter：面向漏洞挖掘的技能包",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "source": "GitHub Trending",
-      "summary": "该仓库为 Claude Code 提供漏洞挖掘与外网红队技能包，含 82 项技能、15 个斜杠命令和 681 条公开报告模式，覆盖 24 类核心漏洞，便于安全团队复用既有经验。",
-      "importance": 5
+      "summary": "面向漏洞挖掘与外部红队场景的 Claude Code 技能包，内置 82 项技能、15 个斜杠命令，并按 24 类核心漏洞整理 681 条已披露报告模式，让代理按既有方法论复现审计流程，减少从零提示的试错成本。",
+      "importance": 6
+    },
+    {
+      "title": "CLI-Anything：为软件生成智能体接口",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "source": "GitHub Trending",
+      "summary": "港大团队开源的项目，为各类软件生成智能体可直接调用的命令行接口，目标是让所有软件「智能体原生」，降低代理调用本地工具的改造成本。",
+      "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "Anthropic 上市后股价回落，AI 板块拖累美股修正",
-      "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
-      "source": "Latent Space",
-      "summary": "Anthropic 以 1.5 万亿美元估值完成史上最大规模 IPO，开盘报 111.5 美元、收于 97.17 美元；AI 股抛售拖累标普 500 与道指进入修正区间。（多家报道）",
-      "importance": 10
+      "title": "Anthropic 万亿上市首日回落，科技股拖累美股",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "Anthropic 以 1.5 万亿美元估值完成史上最大 IPO，开盘报 111.50 美元、收盘回落至 97.17 美元；科技股抛售将标普 500 与道指推入回调区间。（多家报道）",
+      "importance": 9
     },
     {
-      "title": "SpaceX 发行 320 亿美元债券采购 AI 芯片",
+      "title": "SpaceX 拟发 320 亿美元债为 AI 芯片融资",
       "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
       "source": "Bloomberg Markets",
-      "summary": "高盛与阿波罗协助 SpaceX 完成 320 亿美元债券定价，资金用于支付 AI 芯片采购，试图在不恶化企业资产负债表的前提下解决算力融资难题。",
-      "importance": 8
+      "summary": "高盛与阿波罗牵头为 SpaceX 定价 320 亿美元债券，用于支付 AI 芯片采购，试图在不恶化公司资产负债表的前提下解决算力资金来源。",
+      "importance": 7
     },
     {
       "title": "亚马逊接近 75 亿美元收购 AI 初创 Decart",
       "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "summary": "报道称亚马逊接近以 75 亿美元收购 AI 初创公司 Decart，此举意在增强 AWS 在算力与芯片环节对英伟达的竞争力，交易尚未最终敲定。",
-      "importance": 8
-    },
-    {
-      "title": "特朗普威胁限制美企在海外建 AI 数据中心",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "特朗普称将考虑禁止美国企业在海外建设 AI 数据中心，但未提供政策细节，并称团队中有人也是首次听闻，市场关注其后续落地方式与影响范围。",
+      "summary": "报道称亚马逊即将达成收购 AI 初创公司 Decart 的交易，规模约 75 亿美元，用以增强 AWS 在算力竞赛中对抗英伟达的能力。",
       "importance": 7
     },
     {
-      "title": "全球债券收益率普遍上行，中国成例外",
-      "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
-      "source": "The Economist Finance",
-      "summary": "多数经济体长期国债收益率同步走高，中国央行则在被动局面下继续降息，中外货币政策取向与债市走势进一步分化，利差因素受到关注。",
+      "title": "特朗普威胁禁止美企在海外建 AI 数据中心",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "特朗普称可能禁止美国企业在海外建设 AI 数据中心，但未给出政策细节，其团队多名成员表示也是首次听闻这一设想。",
+      "importance": 7
+    },
+    {
+      "title": "COP31 进入加时，欧盟放话可能无协议",
+      "url": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "气候谈判进入第二天加时，沙特牵头反对将化石燃料逐步退出写入最终协议，欧盟警告谈判可能面临「无协议」结局。",
       "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "COP31 因化石燃料退出条款陷入僵局",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "summary": "近 200 个国家在最终协议是否写入化石燃料退出路径上僵持，沙特牵头反对相关表述，欧盟则公开提出可能无法达成协议。（多家报道）",
+      "title": "墨西哥抓获头号毒枭，美墨共享情报数周",
+      "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+      "source": "NYT World",
+      "summary": "墨西哥军队抓获被 FBI 列为十大通缉犯的 Fausto Isidro Meza Flores，行动前美墨当局共享情报数周，动用无人机、短信与诱饵等手段。（多家报道）",
       "importance": 8
     },
     {
-      "title": "习特深圳峰会：中方实际收获何在",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
-      "source": "NPR World",
-      "summary": "NPR 采访中美关系专家，评估特朗普本周深圳之行的实际成果，讨论涉及贸易安排、科技管制与双边关系框架等议题，认为象征意义大于具体承诺。",
+      "title": "FBI 犯罪数据库疑遭入侵，正在调查",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "据报道 FBI 正调查国家犯罪信息中心数据库疑似遭黑客入侵一事，该库供联邦与地方执法机构共享案件与人员信息。",
       "importance": 7
     },
     {
-      "title": "墨西哥头号毒枭在交火后落网",
-      "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-      "source": "NYT World",
-      "summary": "墨西哥军方在枪战后抓获 FBI 十大通缉犯之一、锡那罗亚集团头目梅萨·弗洛雷斯，其被控贩毒与酷刑，此案被视为墨西哥政府的重大执法成果。（多家报道）",
+      "title": "深圳中美峰会后，北京拿到了什么",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+      "source": "NPR World",
+      "summary": "NPR 访谈评估特朗普深圳之行的成果，讨论中方在关税、技术管制与地缘议题上获得的具体承诺及后续执行风险。",
       "importance": 7
     }
   ],
-  "editor_note": "AI 叙事正从模型参数转向融资结构与监管边界：估值、债券和出口限制，才是下一阶段的关键变量。",
+  "editor_note": "同一条 AI 主线上，技术迭代与资本定价出现明显时滞：模型能力仍在指数上行，市场却已开始为融资结构买单。",
   "keywords": [
     "Gemini 4",
     "Anthropic IPO",
-    "美股修正",
-    "AI 芯片融资",
+    "AI 数据中心",
+    "美股回调",
+    "墨西哥毒枭",
     "COP31",
-    "Agent 工具",
-    "数据中心出海"
+    "智能体框架"
   ],
   "trading": {
-    "market_overview": "美股方面，SPY 单日 -3.64%、5 日 -8.56%，价格 689.81 低于 SMA20 747.81、SMA50 760.18 与 SMA200 732.76，RSI14 24.9 进入超卖；QQQ 单日 -5.67%、RSI14 26.6 同为超卖，距 52 周高 -20.24%，整体呈快速去杠杆形态。个股分化明显：NVDA 单日 -14.01%、RSI14 仅 15 为全表最低，META RSI14 30.3 并触发 MACD 死叉，而 AAPL RSI14 46.4、价格 342.56 仍高于 SMA50 341.81 与 SMA200 303.24，维持多头排列。加密方面，恐慌贪婪指数 12（极度恐慌），总市值 2.08T USD、24h -1.25%，BTC 主导率 57.9%、ETH 9.8%；BTC 60007.81 与 ETH 1677.87 的 RSI14 分别为 22.4 与 25.7，虽单日反弹 +2.06%/+3.61%，但仍处 SMA20/50/200 下方，MACD 柱状持续为负。中概普遍承压，BABA RSI14 22.1、5 日 -14.09%，0700.HK RSI14 26.8 且空头排列，仅 PDD 出现 MACD 金叉、RSI14 57.8 并站上 SMA20/50。商品外汇方面，黄金 GC=F RSI14 21.6、MACD -120.96 深度超卖，WTI 原油 RSI14 36.8，美元指数 103.84 多头排列并逼近 52 周高，USDCNY 6.66 偏弱。宏观波动率上，VIX 35.89 单日 +26.2%、RSI14 71.7 超买并触发 MACD 金叉，10Y 收益率 4.91 回落至 SMA20/50 下方。",
+    "market_overview": "美股方面，SPY 单日 -3.64%、5 日 -8.56%，RSI14 为 24.9 进入超卖，并跌破 sma20(747.81) 与 sma200(732.76)；QQQ 单日 -5.67%、5 日 -10.51%，RSI14 为 26.6 同处超卖，距 52 周高点 -20.24%。个股中 NVDA 单日 -14.01%、RSI14 仅 15.0，GOOGL、META、MSFT 均失守 sma20，仅 AAPL 维持多头排列但已出现 MACD 死叉；^VIX 升至 35.89、单日 +26.2%，RSI14 为 71.7 超买，说明波动率技术面极端抬升。加密方面，BTC 60167.62、RSI14 为 23，ETH 1681.13、RSI14 为 26，SOL 70.33、RSI14 为 27.6，三者均位于 sma20 与 sma200 下方，且以 MACD 绿柱为主；加密恐慌贪婪指数为 11（极度恐慌），总市值 2.08T USD（24h -0.77%），BTC 主导率 57.9%、ETH 9.8%。中概内部分化：BABA RSI14 为 22.1、0700.HK RSI14 为 26.8 均触发 MACD 死叉并呈空头排列，JD 跌破均线；仅 PDD 凭 MACD 金叉与 5 日 +5.96% 相对抗跌。商品外汇方面，黄金 3515.4 单日 -4.62%、RSI14 为 21.6 且空头排列，WTI 原油 83.41 在 sma20 下方整理，美元指数 103.84 站上全部均线、RSI14 为 68.4 偏强，USDCNY 6.66 贴近 52 周低位，10Y 美债收益率 4.91% 回落至 sma20 下方。整体呈现风险资产普跌、波动率与美元同步偏强的技术格局。",
     "watchlist": [
       {
         "symbol": "NVDA",
         "display_name": "英伟达 (NVDA)",
         "stance": "偏下行",
-        "rationale": "收 125.53，单日 -14.01%、5 日 -22.92%，距 52 周高 -48.42%；RSI14 仅 15，处于深度超卖。MACD -19.83 低于信号线 -15.20 且柱状为负，价格同时位于 SMA20 181.46、SMA50 207、SMA200 203.35 下方，并接近 52 周低，技术结构呈明显弱势排列。"
+        "rationale": "现价 125.53，单日 -14.01%、5 日 -22.92%，距 52 周高点 -48.42%，仅高于 52 周低点 0.83%。价格同时低于 sma20(181.46)、sma50(207.00)、sma200(203.35)，RSI14 降至 15.0 进入超卖，MACD -19.83 低于信号线 -15.20，绿柱扩张；属于深度超卖但均线空头结构尚未修复的技术状态。"
       },
       {
-        "symbol": "GC=F",
-        "display_name": "黄金期货 (GC=F)",
-        "stance": "偏下行",
-        "rationale": "报 3515.4，单日 -4.62%、5 日 -9.54%，RSI14 21.6 落入超卖区；MACD -120.96 低于信号线 -82.49，柱状为负。价格远低于 SMA20 3942.15、SMA50 4110.86 与 SMA200 4444.68，呈空头排列并逼近 52 周低，趋势标签为 bearish。"
+        "symbol": "^VIX",
+        "display_name": "VIX 恐慌指数",
+        "stance": "偏上行",
+        "rationale": "读数 35.89，单日 +26.2%、5 日 +85.96%，远高于 sma20(21.70) 与 sma200(18.66)，RSI14 达 71.7 进入超买，MACD 2.87 高于信号线 1.66 并形成金叉，红柱为正；较 52 周低点 +168.24%，反映波动率指标处于极端抬升状态。"
       },
       {
         "symbol": "PDD",
         "display_name": "拼多多 (PDD)",
         "stance": "偏上行",
-        "rationale": "报 83.68，5 日 +5.96%，MACD 0.3485 上穿信号线 -0.035 形成金叉，RSI14 57.8 处中性偏强。价格高于 SMA20 80.05 与 SMA50 79.53，但仍低于 SMA200 89.27，距 52 周高 -33.25%，是样本中少数动量指标转正的标的。"
+        "rationale": "现价 83.68，5 日 +5.96%，站上 sma20(80.05) 与 sma50(79.53)，RSI14 为 57.8，处于中性偏强区间；MACD 0.3485 上穿信号线 -0.035 触发金叉，柱状图为正。但仍低于 sma200(89.27)，距 52 周高点 -33.25%，上行结构尚不完整。"
       },
       {
-        "symbol": "^VIX",
-        "display_name": "VIX 恐慌指数 (^VIX)",
-        "stance": "偏上行",
-        "rationale": "报 35.89，单日 +26.2%、5 日 +85.96%，RSI14 71.7 进入超买；MACD 2.87 高于信号线 1.66，触发金叉。价格远高于 SMA20 21.7、SMA50 18.44 与 SMA200 18.66，波动率指标技术面呈强势上行结构。"
+        "symbol": "GC=F",
+        "display_name": "黄金期货",
+        "stance": "偏下行",
+        "rationale": "现价 3515.4，单日 -4.62%、5 日 -9.54%，低于 sma20(3942.15)、sma50(4110.86)、sma200(4444.68)，为空头排列；RSI14 为 21.6 处于深度超卖，MACD -120.96 低于信号线 -82.49，绿柱继续扩张；距 52 周低点仅 +0.36%，价格贴近区间下沿。"
       },
       {
-        "symbol": "SPY",
-        "display_name": "标普 500 ETF (SPY)",
+        "symbol": "ETH-USD",
+        "display_name": "以太坊 (ETH-USD)",
         "stance": "中性",
-        "rationale": "报 689.81，单日 -3.64%、5 日 -8.56%，RSI14 24.9 属超卖；MACD -12.76 低于信号线 -7.38，柱状为负。价格低于 SMA20 747.81、SMA50 760.18 与 SMA200 732.76，距 52 周高 -11.75%、距 52 周低 +9.62%，趋势标签为 neutral，属超卖但未确认反转的中性状态。"
+        "rationale": "现价 1681.13，单日 +3.81% 但 5 日 -7.59%，RSI14 为 26.0 处于超卖，MACD -171.75 低于信号线 -145.79，仍为绿柱；价格远低于 sma20(2001.50) 与 sma200(2125.41)，距 52 周高点 -51.22%，短线反弹与中期空头结构并存，方向尚未确立。"
       }
     ],
-    "risk_caveat": "以上均为公开行情数据计算所得技术指标的客观读数描述，不构成任何投资建议或行动指引；过去走势不代表未来表现，指标超买超卖亦可能长期持续。本报告仅供技术指标解读参考。",
+    "risk_caveat": "本报告仅依据公开行情数据计算出的技术指标读数作客观描述，过去走势不代表未来表现，任何指标状态均不构成对未来价格方向的预测；内容仅供技术指标解读参考，不构成投资建议。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -384,18 +384,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 60007.81,
-        "pct1Day": 2.0558681827696934,
-        "pct5Day": -7.4750916335122115,
-        "pct52WeekHigh": -38.68031669538098,
-        "pct52WeekLow": 7.86646086986501,
-        "sma20": 70091.3833984375,
-        "sma50": 77134.229140625,
-        "sma200": 72426.97654296875,
-        "rsi14": 22.38266546393301,
-        "macd": -4937.735329612638,
-        "macdSignal": -3943.025052416681,
-        "macdHistogram": -994.7102771959576,
+        "currentPrice": 60167.62,
+        "pct1Day": 2.327658609620614,
+        "pct5Day": -7.228683614188578,
+        "pct52WeekHigh": -38.51701297559998,
+        "pct52WeekLow": 4.260917331355594,
+        "sma20": 70099.3740234375,
+        "sma50": 77137.425390625,
+        "sma200": 72427.77560546875,
+        "rsi14": 22.98575263423885,
+        "macd": -4924.986754115445,
+        "macdSignal": -3940.4753373190006,
+        "macdHistogram": -984.5114167964448,
         "trend": "neutral",
         "rsiState": "oversold",
         "signals": [
@@ -411,18 +411,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1677.87,
-        "pct1Day": 3.6085409231208914,
-        "pct5Day": -7.772646278983451,
-        "pct52WeekHigh": -51.3184326407868,
-        "pct52WeekLow": 11.374951983255023,
-        "sma20": 2001.340557861328,
-        "sma50": 2265.2849438476565,
-        "sma200": 2125.398420410156,
-        "rsi14": 25.716187133986793,
-        "macd": -172.0054610045438,
-        "macdSignal": -145.84138273894044,
-        "macdHistogram": -26.164078265603365,
+        "currentPrice": 1681.13,
+        "pct1Day": 3.8098460560628924,
+        "pct5Day": -7.593454104899323,
+        "pct52WeekHigh": -51.223847297708346,
+        "pct52WeekLow": 11.591346783487126,
+        "sma20": 2001.5035583496094,
+        "sma50": 2265.3501440429686,
+        "sma200": 2125.4147204589844,
+        "rsi14": 26.032984555278915,
+        "macd": -171.74540324554255,
+        "macdSignal": -145.78937118724207,
+        "macdHistogram": -25.95603205830048,
         "trend": "neutral",
         "rsiState": "oversold",
         "signals": [
@@ -438,18 +438,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 70.1,
-        "pct1Day": 1.9673252561294194,
-        "pct5Day": -1.9653331156716995,
-        "pct52WeekHigh": -52.70416149403574,
-        "pct52WeekLow": 16.031324816203718,
-        "sma20": 81.1623607635498,
-        "sma50": 96.183134765625,
-        "sma200": 88.41419746398925,
-        "rsi14": 27.08211476966784,
-        "macd": -7.597201328201123,
-        "macdSignal": -7.1575521938246185,
-        "macdHistogram": -0.43964913437650477,
+        "currentPrice": 70.33,
+        "pct1Day": 2.3018828140311336,
+        "pct5Day": -1.6436787164791757,
+        "pct52WeekHigh": -52.54898256598478,
+        "pct52WeekLow": 16.412026737854607,
+        "sma20": 81.17386093139649,
+        "sma50": 96.18773483276367,
+        "sma200": 88.41534748077393,
+        "rsi14": 27.605807639326898,
+        "macd": -7.578853482066961,
+        "macdSignal": -7.153882624601578,
+        "macdHistogram": -0.4249708574653832,
         "trend": "neutral",
         "rsiState": "oversold",
         "signals": [
@@ -778,19 +778,19 @@
       }
     ],
     "crypto_fear_greed": {
-      "value": 12,
+      "value": 11,
       "classification": "Extreme Fear",
       "classificationCn": "极度恐慌",
-      "timestamp": "2026-11-21T00:00:00.000Z"
+      "timestamp": "2026-11-22T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2078504259926.6865,
-      "total24hVolumeUsd": 111275169872.18462,
-      "marketCapChangePct24h": -1.2481848400815638,
-      "btcDominance": 57.90565787748636,
-      "ethDominance": 9.830425619114662,
-      "activeCryptocurrencies": 21337
+      "totalMarketCapUsd": 2083754486392.7004,
+      "total24hVolumeUsd": 110372649992.76291,
+      "marketCapChangePct24h": -0.7726146032213259,
+      "btcDominance": 57.9346970559261,
+      "ethDominance": 9.836908593572502,
+      "activeCryptocurrencies": 21341
     },
-    "generated_at": "2026-11-21T23:06:56.104Z"
+    "generated_at": "2026-11-22T00:39:42.112Z"
   }
 }
